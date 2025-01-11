@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Rekha-jangir
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Rekha-jangir 
 - 📫 How to reach me rekhajangir6789@gmail.com
 
 <!---
